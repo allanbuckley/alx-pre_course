@@ -1,1 +1,1 @@
-alx is amazzing 
+alx is amazing 
